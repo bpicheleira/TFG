@@ -2,7 +2,11 @@
 Trabajo Fin de Grado: Diseño de interfaz de usuario y experiencia de usuario para un entorno virtual de aprendizaje.
 UNIR 2023.
 
-Este repositorio contiene el fichero de los diseños realizados para el TFG en la aplicación Figma.
+Este trabajo propone diseñar una plataforma que le permita al usuario acceder de manera rápida y 
+fácil a sus contenidos académicos mientras maximiza sus recursos.
+
+
+El repositorio contiene el fichero de los diseños realizados para el TFG en la aplicación Figma.
 
 Figma dispone de versión gratuita, pero para abrir el archivo de Figma, no es necesario crear una cuenta en la propia aplicación. En la aplicación Visual Studio se instala la Extensión de Figma:
 
