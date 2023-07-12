@@ -3,6 +3,7 @@ Trabajo Fin de Grado: Diseño de interfaz de usuario y experiencia de usuario pa
 UNIR 2023.
 
 Este repositorio contiene el fichero de los diseños realizados para el TFG en la aplicación Figma.
+
 Figma dispone de versión gratuita, pero para abrir el archivo de Figma, no es necesario crear una cuenta en la propia aplicación. En la aplicación Visual Studio se instala la Extensión de Figma:
 
 ![ExtFigma](https://github.com/bpicheleira/TFG/assets/139148481/ffd45023-6b6e-4f6c-b9c6-01df973dff49)
